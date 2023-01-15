@@ -1,2 +1,1 @@
-# cs61a
-cs61a-fa20
+# A study record about cs61a-fa20
